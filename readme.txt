@@ -17,4 +17,6 @@ this file has changed to master branch and will be commit to test merge
 
 Creating a new branch is quickly and Simple
 
+add this line is to test git merge --no -ff
+
 
